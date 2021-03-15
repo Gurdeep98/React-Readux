@@ -4,7 +4,10 @@ export default function Home() {
   return (
     <div>
       <div className='add-to-cart'>
-        <img src='images.jpg' />
+        <img
+          src='https://icons-for-free.com/iconfiles/png/512/cart+checked+ecommerce+online+shopping+shopping+cart+icon-1320165952137863404.png'
+          alt='cart'
+        />
       </div>
       <h1>Home Component</h1>
       <div className='cart-wrapper'>
