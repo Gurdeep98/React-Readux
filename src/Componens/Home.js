@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <div className='add-to-cart'>
-        <img src='../' alt='cart design' />
+        <img src='images.jpg' />
       </div>
       <h1>Home Component</h1>
       <div className='cart-wrapper'>
